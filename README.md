@@ -12,11 +12,11 @@ I generally avoid packaging tools due to the time required for maintenance (that
 
 <h3>Recent projects and pipelines</h3>
 <ul>
-<li> Genome-graph approach to identify large transposable elements called <i> Starships <i/>: <a href="https://doi.org/10.1101/2024.07.03.601904"> O'Donnell et al. 2024 <i> bioRxiv </i></a></li>
+<li> Genome-graph approach to identify large transposable elements called <i> Starships </i>: <a href="https://doi.org/10.1101/2024.07.03.601904"> O'Donnell et al. 2024 <i> bioRxiv </i></a></li>
   Refer to <a href="https://github.com/SAMtoBAM/pggb_starship_pipeline"> this </a> repository for how to perform a similar genome-graph based analysis <br/>
   Refer to <a href="https://github.com/SAMtoBAM/publicgenomes-to-buscophylogeny"> this </a> repository for easily generating accurate phylogenies from public genome datasets <br/>
 
-<li>ScRAP dataset including phased assemblies, a population SV dataset and complex aneuploidy: <a href="https://doi.org/10.1038/s41588-023-01459-y"> O'Donnell et al. 2023 <i>Nat. Gen.</i></a></li>
+<li> ScRAP dataset including phased assemblies, a population SV dataset and complex aneuploidy: <a href="https://doi.org/10.1038/s41588-023-01459-y"> O'Donnell et al. 2023 <i> Nat. Gen. </i></a></li>
   Refer to <a href="https://github.com/SAMtoBAM/MUMandCo"> this </a> repository for the whole genome alignment SV detection tool <br/>
   Refer to <a href="https://github.com/SAMtoBAM/aneuploidy_detection"> this </a> repository for the detection of both simple and complex aneuploidy <br/>
   Refer to <a href="https://github.com/SAMtoBAM/PhasedDiploidGenomeAssemblyPipeline"> this </a> repository for the phasing and assembling diploid heterozygotes <br/>
