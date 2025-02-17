@@ -21,7 +21,7 @@ I generally avoid packaging tools due to the time required for maintenance (that
   Refer to <a href="https://github.com/SAMtoBAM/aneuploidy_detection"> this </a> repository for the detection of both simple and complex aneuploidy <br/>
   Refer to <a href="https://github.com/SAMtoBAM/PhasedDiploidGenomeAssemblyPipeline"> this </a> repository for the phasing and assembling diploid heterozygotes <br/>
   
-  <li>A simple project in my free time to track and visualise the visitation of <a href="https://whc.unesco.org"> UNESCO sites </a> of multiple people </li>
+  <li>A simple project done in my free time to track and visualise the visitation of <a href="https://whc.unesco.org"> UNESCO sites </a> of multiple people </li>
   Refer to <a href="https://github.com/SAMtoBAM/UNESCO_data"> this </a> repository for the shiny R app and input file <br/>
 
 </ul>
