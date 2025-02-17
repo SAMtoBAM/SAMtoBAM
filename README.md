@@ -1,6 +1,6 @@
-I am a genomicist that uses bioinformatics to understand the structure of the genome <br/>
+I am a genomicist interested in the evolution of genome structure and content <br/>
 I primarily write repositories wtih lengthy explanations of pipelines and code in order that others can be inspired to use part or all of the pipeline in their own analyses <br/>
-I generally avoid packaging tools due to the time required for maintenance (that as a post-doc I do not have) and how quickly features can become outdated <br/>
+I generally avoid packaging tools due to the time required for maintenance (that as a post-doc I do not have) and how quickly tools can become outdated <br/>
 
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
