@@ -15,6 +15,7 @@ I generally avoid packaging tools due to the time to make them, the time require
 <li><ins>Genome-graph approach to identify large transposable elements called <i>Starships</i>:</ins> <a href="https://doi.org/10.1101/2024.07.03.601904"> O'Donnell et al. 2024 <i> bioRxiv </i></a></li>
   Refer to <a href="https://github.com/SAMtoBAM/pggb_starship_pipeline"> this </a> repository for how to perform a similar genome-graph based analysis <br/>
   Refer to <a href="https://github.com/SAMtoBAM/publicgenomes-to-buscophylogeny"> this </a> repository for easily generating accurate phylogenies from public genome datasets <br/>
+    Refer to <a href="https://github.com/SAMtoBAM/functional_enrichment"> this </a> repository for hypergeometric functional enrichment tests using COG annotations <br/>
 
 <li><ins>ScRAP dataset with phased assemblies, a population SV dataset and complex aneuploidy:</ins> <a href="https://doi.org/10.1038/s41588-023-01459-y"> O'Donnell et al. 2023 <i> Nat. Gen. </i></a></li>
   Refer to <a href="https://github.com/SAMtoBAM/MUMandCo"> this </a> repository for the whole genome alignment SV detection tool <br/>
