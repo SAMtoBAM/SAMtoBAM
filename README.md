@@ -1,6 +1,7 @@
 I am a genomicist interested in the evolution of genome structure and content <br/>
 I primarily write repositories with lengthy explanations of pipelines and code in order that others can be inspired to use part or all of the pipeline in their own analyses <br/>
-I generally avoid packaging tools due to the time to make them, the time required for maintenance (that as a post-doc I do not have) and how quickly tools can become outdated <br/>
+If possible I will also write everything in bash to avoid the need for any issues with installations, permissions, version control etc <br/>
+I also generally avoid packaging tools due to the time to make them, the time required for maintenance (that as a post-doc I do not have) and how quickly tools can become outdated <br/>
 
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
