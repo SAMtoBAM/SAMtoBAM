@@ -24,6 +24,6 @@ I also generally avoid packaging tools due to the time to make them, the time re
   Refer to <a href="https://github.com/SAMtoBAM/PhasedDiploidGenomeAssemblyPipeline"> this </a> repository for the phasing and assembling diploid heterozygotes <br/>
   
   <li><ins>A free-time project to track, visualise and compare peoples visitation of</ins> <a href="https://whc.unesco.org"> UNESCO sites </a> </li>
-    Refer to <a href="https://github.com/SAMtoBAM/UNESCO_data"> this </a> repository for the shiny R app and input file </ins>ins> <br/>
+    Refer to <a href="https://github.com/SAMtoBAM/UNESCO_data"> this </a> repository for the shiny R app and input file <br/>
 
 </ul>
