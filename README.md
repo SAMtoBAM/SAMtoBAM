@@ -19,11 +19,16 @@ I also generally avoid packaging tools due to the time to make them, the time re
     Refer to <a href="https://github.com/SAMtoBAM/functional_enrichment"> this </a> repository for hypergeometric functional enrichment tests using COG annotations <br/>
 
 <li><ins>ScRAP dataset with phased assemblies, a population SV dataset and complex aneuploidy:</ins> <a href="https://doi.org/10.1038/s41588-023-01459-y"> O'Donnell et al. 2023 <i> Nat. Gen. </i></a></li>
-  Refer to <a href="https://github.com/SAMtoBAM/MUMandCo"> this </a> repository for the whole genome alignment SV detection tool <br/>
+  Refer to <a href="https://github.com/SAMtoBAM/MUMandCo"> this </a> repository for the whole genome alignment SV detection tool <img src="https://github.com/SAMtoBAM/MUMandCo/blob/master/logo.svg" width=15%> <br/> 
   Refer to <a href="https://github.com/SAMtoBAM/aneuploidy_detection"> this </a> repository for the detection of both simple and complex aneuploidy <br/>
   Refer to <a href="https://github.com/SAMtoBAM/PhasedDiploidGenomeAssemblyPipeline"> this </a> repository for the phasing and assembling diploid heterozygotes <br/>
+
+
+<li><ins>An ensemble reference-free assembly evaluationtool </ins> <img src="https://github.com/SAMtoBAM/PAQman/blob/main/logo/paqman_logo_grey.svg" width=13%>
+
+<li><ins>A complete automated assembly pipeline </ins> <img src="https://github.com/SAMtoBAM/fusemblr/blob/main/logo/fusemblr_logo.svg" width=15%>
   
-  <li><ins>A free-time project to track, visualise and compare peoples visitation of</ins> <a href="https://whc.unesco.org"> UNESCO sites </a> </li>
+<li><ins>A free-time project to track, visualise and compare peoples visitation of</ins> <a href="https://whc.unesco.org"> UNESCO sites </a> </li>
     Refer to <a href="https://github.com/SAMtoBAM/UNESCO_data"> this </a> repository for the shiny R app and input file <br/>
 
 </ul>
