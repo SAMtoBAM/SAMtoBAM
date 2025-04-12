@@ -22,7 +22,7 @@ I primarily create tools or write repositories with lengthy explanations of pipe
   Refer to <a href="https://github.com/SAMtoBAM/PhasedDiploidGenomeAssemblyPipeline"> this </a> repository for the phasing and assembling diploid heterozygotes <br/>
 
 
-<li><ins>An ensemble reference-free assembly evaluationtool </ins> <img src="https://github.com/SAMtoBAM/PAQman/blob/main/logo/paqman_logo_grey.svg" width=13%>
+<li><ins>An ensemble reference-free assembly evaluation tool </ins> <img src="https://github.com/SAMtoBAM/PAQman/blob/main/logo/paqman_logo_grey.svg" width=13%>
 
 <li><ins>A complete automated assembly pipeline </ins> <img src="https://github.com/SAMtoBAM/fusemblr/blob/main/logo/fusemblr_logo.svg" width=15%>
   
