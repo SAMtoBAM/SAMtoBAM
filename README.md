@@ -14,18 +14,23 @@ I primarily create tools or write repositories with lengthy explanations of pipe
 <li><ins>Genome-graph approach to identify large transposable elements called <i>Starships</i>:</ins> <a href="https://doi.org/10.1101/2024.07.03.601904"> O'Donnell et al. 2024 <i> bioRxiv </i></a></li>
   Refer to <a href="https://github.com/SAMtoBAM/pggb_starship_pipeline"> this </a> repository for how to perform a similar genome-graph based analysis <br/>
   Refer to <a href="https://github.com/SAMtoBAM/publicgenomes-to-buscophylogeny"> this </a> repository for easily generating accurate phylogenies from public genome datasets <br/>
-    Refer to <a href="https://github.com/SAMtoBAM/functional_enrichment"> this </a> repository for hypergeometric functional enrichment tests using COG annotations <br/>
+  Refer to <a href="https://github.com/SAMtoBAM/functional_enrichment"> this </a> repository for hypergeometric functional enrichment tests using COG annotations <br/>
 
+<br/>
 <li><ins>ScRAP dataset with phased assemblies, a population SV dataset and complex aneuploidy:</ins> <a href="https://doi.org/10.1038/s41588-023-01459-y"> O'Donnell et al. 2023 <i> Nat. Gen. </i></a></li>
-  Refer to <a href="https://github.com/SAMtoBAM/MUMandCo"> this </a> repository for the whole genome alignment SV detection tool <img src="https://github.com/SAMtoBAM/MUMandCo/blob/master/logo.svg" width=15%> <br/> 
   Refer to <a href="https://github.com/SAMtoBAM/aneuploidy_detection"> this </a> repository for the detection of both simple and complex aneuploidy <br/>
   Refer to <a href="https://github.com/SAMtoBAM/PhasedDiploidGenomeAssemblyPipeline"> this </a> repository for the phasing and assembling diploid heterozygotes <br/>
 
+<br/>
+<li><ins>A whole genome aligment SV calling tool:</ins> <a href="https://github.com/SAMtoBAM/MUMandCo"> MUM&Co </a> <img src="https://github.com/SAMtoBAM/MUMandCo/blob/master/logo.svg" width=15%> <br/> 
 
-<li><ins>An ensemble reference-free assembly evaluation tool:</ins>  <a href="https://github.com/SAMtoBAM/PAQman"> PAQman </a> <img src="https://github.com/SAMtoBAM/PAQman/blob/main/logo/paqman_logo_grey.png" width=13%>
-
+<li><ins>An ensemble reference-free assembly evaluation tool:</ins>  <a href="https://github.com/SAMtoBAM/PAQman"> PAQman </a> <img src="https://github.com/SAMtoBAM/PAQman/blob/main/logo/paqman_logo_grey.png" width=12%>
+  <br/>
+  <br/>
 <li><ins>A complete automated assembly pipeline:</ins>  <a href="https://github.com/SAMtoBAM/fusemblr"> fusemblr </a> <img src="https://github.com/SAMtoBAM/fusemblr/blob/main/logo/fusemblr.png" width=15%>
-  
+
+<br/>
+<br/>
 <li><ins>A free-time project to track, visualise and compare peoples visitation of</ins> <a href="https://whc.unesco.org"> UNESCO sites </a> </li>
     Refer to <a href="https://github.com/SAMtoBAM/UNESCO_data"> this </a> repository for the shiny R app and input file <br/>
 
