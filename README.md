@@ -22,14 +22,12 @@ I primarily create tools or write repositories with lengthy explanations of pipe
   Refer to <a href="https://github.com/SAMtoBAM/PhasedDiploidGenomeAssemblyPipeline"> this </a> repository for the phasing and assembling diploid heterozygotes <br/>
 
 <br/>
-<li><ins>A whole genome aligment SV calling tool:</ins> <a href="https://github.com/SAMtoBAM/MUMandCo"> MUM&Co </a> <img src="https://github.com/SAMtoBAM/MUMandCo/blob/master/logo.svg" width=15%> <br/> 
+<li><ins>A whole genome aligment SV calling tool:</ins> <a href="https://github.com/SAMtoBAM/MUMandCo"> MUM&Co </a> <img src="https://github.com/SAMtoBAM/MUMandCo/blob/master/logo.svg" width=15%>  <a href="https://doi.org/10.1093/bioinformatics/btaa115"> O'Donnell et al. 2020 <i> Bioinformatics </i></a></li>
 
-<li><ins>An ensemble reference-free assembly evaluation tool:</ins>  <a href="https://github.com/SAMtoBAM/PAQman"> PAQman </a> <img src="https://github.com/SAMtoBAM/PAQman/blob/main/logo/paqman_logo_grey.png" width=12%>
+<li><ins>An ensemble reference-free assembly evaluation tool:</ins>  <a href="https://github.com/SAMtoBAM/PAQman"> PAQman </a> <img src="https://github.com/SAMtoBAM/PAQman/blob/main/logo/paqman_logo_grey.png" width=13%>
   <br/>
   <br/>
-<li><ins>A complete automated assembly pipeline:</ins>  <a href="https://github.com/SAMtoBAM/fusemblr"> fusemblr </a> <img src="https://github.com/SAMtoBAM/fusemblr/blob/main/logo/fusemblr.png" width=15%>
-
-<br/>
+<li><ins>A complete automated assembly pipeline:</ins>  <a href="https://github.com/SAMtoBAM/fusemblr"> fusemblr </a> <img src="https://github.com/SAMtoBAM/fusemblr/blob/main/logo/fusemblr.png" width=15%> </li>
 <br/>
 <li><ins>A free-time project to track, visualise and compare peoples visitation of</ins> <a href="https://whc.unesco.org"> UNESCO sites </a> </li>
     Refer to <a href="https://github.com/SAMtoBAM/UNESCO_data"> this </a> repository for the shiny R app and input file <br/>
