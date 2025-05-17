@@ -24,7 +24,7 @@ I primarily create tools or write repositories with lengthy explanations <br/>
 <br/>
 <li><ins>A whole genome alignment SV calling tool:</ins> <a href="https://github.com/SAMtoBAM/MUMandCo"> MUM&Co </a> <img src="https://github.com/SAMtoBAM/MUMandCo/blob/master/logo.svg" width=15%>  <a href="https://doi.org/10.1093/bioinformatics/btaa115"> O'Donnell and Fischer 2020 <i> Bioinformatics </i></a></li>
 
-<li><ins>An ensemble reference-free assembly evaluation tool:</ins>  <a href="https://github.com/SAMtoBAM/PAQman"> PAQman </a> <img src="https://github.com/SAMtoBAM/PAQman/blob/main/logo/paqman_logo_grey.png" width=13%>
+<li><ins>An ensemble reference-free assembly evaluation tool:</ins>  <a href="https://github.com/SAMtoBAM/PAQman"> PAQman </a> <img src="https://github.com/SAMtoBAM/PAQman/blob/main/logo/paqman_logo_grey.svg" width=13%>
   <br/>
   <br/>
 <li><ins>A complete automated assembly pipeline:</ins>  <a href="https://github.com/SAMtoBAM/fusemblr"> fusemblr </a> <img src="https://github.com/SAMtoBAM/fusemblr/blob/main/logo/fusemblr.png" width=15%> </li>
