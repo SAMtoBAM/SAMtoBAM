@@ -11,8 +11,11 @@ I primarily create tools or write repositories with lengthy explanations <br/>
 
 <h3>Recent projects and pipelines</h3>
 <ul>
-<li><ins>Genome-graph approach to identify large transposable elements called <i>Starships</i>:</ins> <a href="https://doi.org/10.1101/2024.07.03.601904"> O'Donnell et al. 2024 <i> bioRxiv </i></a></li>
-  Refer to <a href="https://github.com/SAMtoBAM/pggb_starship_pipeline"> this </a> repository for how to perform a similar genome-graph based analysis <br/>
+<li><ins>A comprehensive <i>Starship</i> and <i>Starship</i>-like region detection tool:</ins>  <a href="https://github.com/SAMtoBAM/Stargraph"> Stargraph </a> <img src="https://github.com/SAMtoBAM/stargraph/blob/main/logo/stargraph_logo.png" width=16%>
+  <br/>
+  <br/>
+<li><ins>Linking a higher frequency of <i>Starship</i> presence with domesticated and pathogenic fungi:</ins> <a href="https://doi.org/10.1101/2024.07.03.601904"> O'Donnell et al. 2024 <i> bioRxiv </i></a></li>
+  Refer to <a href="https://github.com/SAMtoBAM/pggb_starship_pipeline"> this </a> repository for how to use genome-graphs to detect <i>Starships</i> <br/>
   Refer to <a href="https://github.com/SAMtoBAM/publicgenomes-to-buscophylogeny"> this </a> repository for easily generating accurate phylogenies from public genome datasets <br/>
   Refer to <a href="https://github.com/SAMtoBAM/functional_enrichment"> this </a> repository for hypergeometric functional enrichment tests using COG annotations <br/>
 
