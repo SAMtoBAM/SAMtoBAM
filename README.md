@@ -11,7 +11,7 @@ I primarily create tools or write repositories with lengthy explanations <br/>
 
 <h3>Recent projects and pipelines</h3>
 <ul>
-<li><ins>A comprehensive <i>Starship</i> and <i>Starship</i>-like region detection tool:</ins>  <a href="https://github.com/SAMtoBAM/Stargraph"> Stargraph </a> <img src="https://github.com/SAMtoBAM/stargraph/blob/main/logo/stargraph_logo.png" width=16%>
+<li><ins>A comprehensive <i>Starship</i> and <i>Starship</i>-like region detection tool:</ins>  <a href="https://github.com/SAMtoBAM/stargraph"> stargraph </a> <img src="https://github.com/SAMtoBAM/stargraph/blob/main/logo/stargraph_logo.png" width=16%>
   <br/>
   <br/>
 <li><ins>Linking a higher frequency of <i>Starship</i> presence with domesticated and pathogenic fungi:</ins> <a href="https://doi.org/10.1101/2024.07.03.601904"> O'Donnell et al. 2024 <i> bioRxiv </i></a></li>
