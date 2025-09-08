@@ -11,7 +11,7 @@ I primarily create tools or write repositories with lengthy explanations <br/>
 
 <h3>Recent projects and pipelines</h3>
 <ul>
-  <li><ins>A tool for the detection of Telomere-Linked-Helicase Containing RegionS (TLHcrs) repeats:</ins>  <a href="https://github.com/SAMtoBAM/TLHcrsFinder"> TLHcrsFinder </a> <img src="https://github.com/SAMtoBAM/TLHcrsFinder/blob/main/logo/TLHcrsFinder_logo.png" width=16%>
+  <li><ins>Telomere-Linked-Helicase Containing RegionS (TLHcrs) repeat detection tool:</ins>  <a href="https://github.com/SAMtoBAM/TLHcrsFinder"> TLHcrsFinder </a> <img src="https://github.com/SAMtoBAM/TLHcrsFinder/blob/main/logo/TLHcrsFinder_logo.png" width=16%>
   <br/>
   <br/>
   <li><ins>A comprehensive <i>Starship</i> and <i>Starship</i>-like region detection tool:</ins>  <a href="https://github.com/SAMtoBAM/stargraph"> stargraph </a> <img src="https://github.com/SAMtoBAM/stargraph/blob/main/logo/stargraph_logo.png" width=16%>
