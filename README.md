@@ -18,7 +18,7 @@ I primarily create tools or write repositories with lengthy explanations <br/>
   <br/>
   <br/>
 <li><ins>Linking greater <i>Starship</i> presence with domesticated and pathogenic fungi:</ins> <a href="https://doi.org/10.1093/gbe/evaf125"> O'Donnell et al. 2025 <i> Genome Biol. Evol. </i></a></li>
-  Refer to <a href="https://github.com/SAMtoBAM/pggb_starship_pipeline"> this </a> repository for how to use genome-graphs to detect <i>Starships</i> <br/>
+  Refer to <a href="https://github.com/SAMtoBAM/pggb_starship_pipeline"> this </a> repository for how to use genome-graphs to detect <i>Starships</i> (<a href="https://github.com/SAMtoBAM/stargraph"> stargraph </a> was based on this )<br/>
   Refer to <a href="https://github.com/SAMtoBAM/publicgenomes-to-buscophylogeny"> this </a> repository for easily generating accurate phylogenies from public genome datasets <br/>
   Refer to <a href="https://github.com/SAMtoBAM/functional_enrichment"> this </a> repository for hypergeometric functional enrichment tests using COG annotations <br/>
 
