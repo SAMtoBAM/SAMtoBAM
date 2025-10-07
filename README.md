@@ -9,7 +9,7 @@ I primarily create tools or write repositories with lengthy explanations <br/>
   <img alt="Stars" src="https://img.shields.io/github/stars/SAMtoBAM" />
 </p>
 
-<h3>Recent projects and pipelines</h3>
+<h3>Recent projects/pipelines/tools</h3>
 <ul>
   <li><ins>An ensemble reference-free assembly evaluation tool:</ins>  <a href="https://github.com/SAMtoBAM/PAQman"> PAQman </a> <img src="https://github.com/SAMtoBAM/PAQman/blob/main/logo/paqman_logo_grey.svg" width=13%> <a href="https://doi.org/10.1101/2025.09.11.675652"> O'Donnell et al 2025 <i> biorxiv </i></a></li>
   <br/>
