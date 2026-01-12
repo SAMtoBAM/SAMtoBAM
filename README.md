@@ -14,7 +14,7 @@ I primarily create tools or write repositories with lengthy explanations <br/>
   <li><ins>An ensemble reference-free assembly evaluation tool:</ins>  <a href="https://github.com/SAMtoBAM/PAQman"> PAQman </a> <img src="https://github.com/SAMtoBAM/PAQman/blob/main/logo/paqman_logo_grey.svg" width=13%> <a href="https://doi.org/10.1101/2025.09.11.675652"> O'Donnell et al 2025 <i> biorxiv </i></a></li>
   <br/>
   
-  <li><ins>Telomere-Linked-Repeat (TLR) repeat detection tool:</ins>  <a href="https://github.com/SAMtoBAM/TLRFinder"> TLRFinder </a> <img src="https://github.com/SAMtoBAM/TLRFinder/blob/main/logo/TLRFinder_logo.png" width=16%>
+  <li><ins>Telomere-Linked-Repeat (TLR) detection tool:</ins>  <a href="https://github.com/SAMtoBAM/TLRFinder"> TLRFinder </a> <img src="https://github.com/SAMtoBAM/TLRFinder/blob/main/logo/TLRFinder_logo.png" width=16%>
   <br/>
   <br/>
   <li><ins>A comprehensive <i>Starship</i> and <i>Starship</i>-like region detection tool:</ins>  <a href="https://github.com/SAMtoBAM/stargraph"> stargraph </a> <img src="https://github.com/SAMtoBAM/stargraph/blob/main/logo/stargraph_logo.png" width=16%>
