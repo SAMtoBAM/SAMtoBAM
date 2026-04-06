@@ -11,7 +11,7 @@ I primarily create tools or write repositories with lengthy explanations <br/>
 
 <h3>Recent projects/pipelines/tools</h3>
 <ul>
-  <li><ins>An ensemble reference-free assembly evaluation tool:</ins>  <a href="https://github.com/SAMtoBAM/PAQman"> PAQman </a> <img src="https://github.com/SAMtoBAM/PAQman/blob/main/logo/paqman_logo_grey.svg" width=13%> <a href="https://doi.org/10.1101/2025.09.11.675652"> O'Donnell et al 2025 <i> biorxiv </i></a></li>
+  <li><ins>An ensemble reference-free assembly evaluation tool:</ins>  <a href="https://github.com/SAMtoBAM/PAQman"> PAQman </a> <img src="https://github.com/SAMtoBAM/PAQman/blob/main/logo/paqman_logo_grey.svg" width=13%> <a href="https://doi.org/10.1093/g3journal/jkag034"> O'Donnell <i>et al.</i> 2025. <i> G3 </i></a></li>
   <br/>
   
   <li><ins>Telomere-Linked-Repeat (TLR) detection tool:</ins>  <a href="https://github.com/SAMtoBAM/TLRFinder"> TLRFinder </a> <img src="https://github.com/SAMtoBAM/TLRFinder/blob/main/logo/TLRFinder_logo.png" width=16%>
@@ -20,18 +20,18 @@ I primarily create tools or write repositories with lengthy explanations <br/>
   <li><ins>A comprehensive <i>Starship</i> and <i>Starship</i>-like region detection tool:</ins>  <a href="https://github.com/SAMtoBAM/stargraph"> stargraph </a> <img src="https://github.com/SAMtoBAM/stargraph/blob/main/logo/stargraph_logo.png" width=16%>
   <br/>
   <br/>
-<li><ins>Linking greater <i>Starship</i> presence with domesticated and pathogenic fungi:</ins> <a href="https://doi.org/10.1093/gbe/evaf125"> O'Donnell et al. 2025 <i> Genome Biol. Evol. </i></a></li>
+<li><ins>Linking greater <i>Starship</i> presence with domesticated and pathogenic fungi:</ins> <a href="https://doi.org/10.1093/gbe/evaf125"> O'Donnell <i>et al.</i> 2025. <i> Genome Biol. Evol. </i></a></li>
   Refer to <a href="https://github.com/SAMtoBAM/pggb_starship_pipeline"> this </a> repository for how to use genome-graphs to detect <i>Starships</i> (<a href="https://github.com/SAMtoBAM/stargraph"> stargraph </a> was based on this )<br/>
   Refer to <a href="https://github.com/SAMtoBAM/publicgenomes-to-buscophylogeny"> this </a> repository for easily generating accurate phylogenies from public genome datasets <br/>
   Refer to <a href="https://github.com/SAMtoBAM/functional_enrichment"> this </a> repository for hypergeometric functional enrichment tests using COG annotations <br/>
 
 <br/>
-<li><ins>ScRAP dataset with phased assemblies, a population SV dataset and complex aneuploidy:</ins> <a href="https://doi.org/10.1038/s41588-023-01459-y"> O'Donnell et al. 2023 <i> Nat. Gen. </i></a></li>
+<li><ins>ScRAP dataset with phased assemblies, a population SV dataset and complex aneuploidy:</ins> <a href="https://doi.org/10.1038/s41588-023-01459-y"> O'Donnell <i>et al.</i> 2023. <i> Nat. Gen. </i></a></li>
   Refer to <a href="https://github.com/SAMtoBAM/aneuploidy_detection"> this </a> repository for the detection of both simple and complex aneuploidy <br/>
   Refer to <a href="https://github.com/SAMtoBAM/PhasedDiploidGenomeAssemblyPipeline"> this </a> repository for the phasing and assembling diploid heterozygotes <br/>
 
 <br/>
-<li><ins>A whole genome alignment SV calling tool:</ins> <a href="https://github.com/SAMtoBAM/MUMandCo"> MUM&Co </a> <img src="https://github.com/SAMtoBAM/MUMandCo/blob/master/logo/logo.svg" width=15%>  <a href="https://doi.org/10.1093/bioinformatics/btaa115"> O'Donnell and Fischer 2020 <i> Bioinformatics </i></a></li>
+<li><ins>A whole genome alignment SV calling tool:</ins> <a href="https://github.com/SAMtoBAM/MUMandCo"> MUM&Co </a> <img src="https://github.com/SAMtoBAM/MUMandCo/blob/master/logo/logo.svg" width=15%>  <a href="https://doi.org/10.1093/bioinformatics/btaa115"> O'Donnell and Fischer 2020. <i> Bioinformatics </i></a></li>
 <br/>
 
 <li><ins>A complete automated assembly pipeline:</ins>  <a href="https://github.com/SAMtoBAM/fusemblr"> fusemblr </a> <img src="https://github.com/SAMtoBAM/fusemblr/blob/main/logo/fusemblr.png" width=15%> </li>
