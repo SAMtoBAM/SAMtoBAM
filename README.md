@@ -1,5 +1,5 @@
 I am a genomicist interested in the evolution of genome structure and content <br/>
-I primarily create tools or write repositories with lengthy explanations <br/>
+My repos contain packaged tools or pipelines with lengthy explanations <br/>
 
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
